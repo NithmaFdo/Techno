@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+	background-color: black; border-color: black;
+}
+h5.mb-0 a {
+  color: black;
+}
+
